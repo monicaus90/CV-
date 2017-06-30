@@ -1,0 +1,53 @@
+
+body {
+      background-color: #D8D8D8;
+}
+
+.title_blue {
+      font-family:Comic Sans MS;
+      color: white;
+      text-align: center;
+      border: 2px solid #000000;
+      border-radius: 5px;
+      margin:  0 auto;
+      padding: 0;
+      background: #0B0B3B;
+      line-height: .5;
+}
+
+div img {
+      display: block;
+      height: 200px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 30px;
+      margin-top: 30px;
+      border-radius: 10px;
+      border: 1px solid #000000;
+}
+
+.textdate {
+      color: black;
+      font-family: Comic Sans MS;     
+      flex-basis: 50%;
+}
+
+.block_1 {
+      width: 100%;
+      margin: 0 auto;
+      height: 10%;
+      display: flex;
+      flex-wrap: wrap;
+}
+
+.block_2 {
+        text-align: left;
+        width: 50%;
+        margin: 0 auto;       
+}
+
+.container {
+      width: 90%;
+      margin: 5% auto 5%;     
+}
+
